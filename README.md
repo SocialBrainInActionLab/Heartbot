@@ -5,7 +5,7 @@ The code can be run in synchronous and asynchronous mode. In synchronous mode th
 
 ## To run heartbot
 
-python polarHeartBot.py <participant number> async
+python polarHeartBot.py *participant-number* [async]
 
 The participant parameter is required for logging
 If the 'async' parameter is provided then the system runs in asynchronous mode. Its absence indicates synchronous mode.
